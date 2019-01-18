@@ -1,0 +1,18 @@
+[
+  {
+    "remote":     "github",
+    "repository": "Subinsmani_kernel_asus_sdm660",
+    "target_path": "kernel/asus/sdm660",
+    "branch":      "pie"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  }
+    "remote":     "github",
+    "repository": "Subinsmani/proprietary_vendor_asus",
+    "target_path": "vendor/asus",
+    "branch":      "pie"
+  }
+]
