@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "X00TD-RR/proprietary_vendor_asus",
+    "target_path": "vendor/asus",
+    "branch" : "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "X00TD-RR/kernel_asus_sdm660",
+    "target_path": "kernel_asus_sdm660",
+    "branch": "pie"
+  }
+]
